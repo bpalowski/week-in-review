@@ -18,3 +18,22 @@ h2{
 li {
   font-family: monospace;
 }
+
+.customFont{
+  font-family:pacifico;
+}
+
+p{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color:#7FD3C8;
+  border-bottom: 2px solid #ff3300;
+
+}
+
+a:hover{
+  background-color: #000;
+}
